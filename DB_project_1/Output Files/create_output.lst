@@ -1,0 +1,16 @@
+mysql> source C:\Users\Ritesh\Desktop\Script Files\country.sql
+Query OK, 0 rows affected (0.41 sec)
+
+mysql> source C:\Users\Ritesh\Desktop\Script Files\players.sql
+Query OK, 0 rows affected (0.37 sec)
+
+mysql> source C:\Users\Ritesh\Desktop\Script Files\match_results.sql
+Query OK, 0 rows affected (0.36 sec)
+
+mysql> source C:\Users\Ritesh\Desktop\Script Files\player_assists_goals.sql
+Query OK, 0 rows affected (0.33 sec)
+
+mysql> source C:\Users\Ritesh\Desktop\Script Files\player_card.sql
+Query OK, 0 rows affected (0.42 sec)
+
+mysql> notee;
