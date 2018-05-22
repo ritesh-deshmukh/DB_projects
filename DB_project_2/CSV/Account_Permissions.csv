@@ -1,0 +1,5 @@
+"P_Name;""Role_Name"""
+"CREATE CLUSTER;""DBA"""
+"CREATE DATABASE;""DBA"""
+"DROP DATABASE;""DBA"""
+"CREATE TABLE;""Manager"""
